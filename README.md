@@ -29,3 +29,6 @@
 - [javascript的api设计原则](http://www.cnblogs.com/constantince/p/5580003.html)
 - [[译]设计更好的JavaScript API](http://dickeylth.github.io/2013/04/21/DesigningBetterJavaScriptAPIs/)
 - [在SDK&API的开发中、你一定要知道的7件事！](http://www.jianshu.com/p/2ee50a2e3750)
+- [如何设计出色的 JavaScript API](http://nuysoft.com/2013/09/24/secrets-of-awesome-javascript-api-design/)
+- [JavaScript API 设计原则](http://jinlong.github.io/2015/08/31/secrets-of-awesome-javascript-api-design/)
+- [出色的 JavaScript API 设计秘诀](https://www.oschina.net/translate/secrets-of-awesome-javascript-api-design)
